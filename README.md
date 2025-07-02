@@ -1,4 +1,4 @@
-# 🧠 KOU AI – Voice-Controlled Desktop Assistant
+# 🧠 Voice-Controlled Desktop Assistant
 
 A simple Python application that allows you to **open and close applications using your voice**.  
 It uses speech recognition, text-to-speech, and a minimal GUI built with `customtkinter`.
