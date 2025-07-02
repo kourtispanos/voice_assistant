@@ -20,9 +20,6 @@ It uses speech recognition, text-to-speech, and a minimal GUI built with `custom
 - `speech_recognition`
 - `subprocess`, `os`, `threading`
 
-## 📸 Screenshot
-
-*(Add a screenshot of the GUI here if you'd like)*
 
 ## ▶️ How to Run
 
